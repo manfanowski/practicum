@@ -1,0 +1,20 @@
+// напишите тут команды роботу
+Up(3);
+Right(3);
+Up(1);
+Right(4);
+Left(4);
+Down(1);
+Left(5);
+Up(7);
+Water();
+Left(4);
+Right(5);
+Up(4);
+Down(4);
+Right(5);
+Up(3);
+Down(3);
+Left(6);
+Down(10);
+Right(2);
